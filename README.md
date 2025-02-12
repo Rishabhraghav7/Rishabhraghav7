@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sujeeth Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20Everyone&fontSize=90)
+<h1 align="center">I'm Rishabh Raghav  </h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeeth021" alt="sujeeth021" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rishabhraghav7" alt="Rishabhraghav7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sujeeth kumar m s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeeth kumar m s" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sujeethkumarms1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujeethkumarms1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishabh-raghav05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeeth kumar m s" height="30" width="40" /></a>
+<a href="https://leetcode.com/Rishabhraghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujeethkumarms1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,8 +17,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeeth021&show_icons=true&locale=en" alt="sujeeth021" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeeth021&" alt="sujeeth021" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhraghav&" alt="Rishabhraghav" /></p>
 
 ### 📊**Leetcode Stats**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sujeethkumarms1?theme=dark)](https://leetcode.com/u/Rishabhraghav/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rishabhraghav?theme=dark)](https://leetcode.com/u/Rishabhraghav/)
 ---
