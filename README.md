@@ -19,5 +19,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeeth021&" alt="sujeeth021" /></p>
 
 ### 📊**Leetcode Stats**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sujeethkumarms1?theme=dark)](https://leetcode.com/sujeethkumarms1)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sujeethkumarms1?theme=dark)](https://leetcode.com/u/Rishabhraghav/)
 ---
