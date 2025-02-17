@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20Everyone&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hey!%20Everyone&fontSize=90&animation=fadeIn)
 <h1 align="center">I'm Rishabh Raghav  </h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
