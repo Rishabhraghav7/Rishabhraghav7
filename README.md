@@ -49,9 +49,7 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/>
-  </a>
+
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
   </a>
@@ -131,8 +129,8 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
