@@ -112,9 +112,9 @@
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
   </a>
-  <a href="https://nixos.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://nixos.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nixos.svg" alt="nixos" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://hyprland.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hyprland.svg" alt="hyprland" width="40" height="40"/>
   </a>
@@ -129,9 +129,9 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
   </a>
@@ -163,9 +163,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishabhraghav7&show_icons=true&locale=en&layout=compact" alt="Rishabhraghav7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabhraghav7&show_icons=true&locale=en" alt="Rishabhraghav7" /></p>
 
 ### 📊**Leetcode Stats**
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Rishabhraghav?theme=dark)](https://leetcode.com/u/Rishabhraghav/)
