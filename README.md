@@ -98,9 +98,6 @@
   </a>
 
   <!-- Shells -->
-  <a href="https://www.zsh.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zsh.svg" alt="zsh" width="40" height="40"/>
-  </a>
   <a href="https://fishshell.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/fishshell/F9A825" alt="fish" width="40" height="40"/>
   </a>
